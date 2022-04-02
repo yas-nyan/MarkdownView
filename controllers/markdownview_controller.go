@@ -24,7 +24,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/controller-runtime/pkg/log"
 
-	viewv1 "github.com/wide-vsix/MarkdownView/api/v1"
+	viewv1 "github.com/yas-nyan/MarkdownView/api/v1"
 )
 
 // MarkdownViewReconciler reconciles a MarkdownView object

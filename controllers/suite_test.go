@@ -30,7 +30,7 @@ import (
 	logf "sigs.k8s.io/controller-runtime/pkg/log"
 	"sigs.k8s.io/controller-runtime/pkg/log/zap"
 
-	viewv1 "github.com/wide-vsix/MarkdownView/api/v1"
+	viewv1 "github.com/yas-nyan/MarkdownView/api/v1"
 	//+kubebuilder:scaffold:imports
 )
 

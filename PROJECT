@@ -2,7 +2,7 @@ domain: vsix.wide.ad.jp
 layout:
 - go.kubebuilder.io/v3
 projectName: markdownview
-repo: github.com/wide-vsix/MarkdownView
+repo: github.com/yas-nyan/MarkdownView
 resources:
 - api:
     crdVersion: v1
@@ -11,7 +11,7 @@ resources:
   domain: vsix.wide.ad.jp
   group: view
   kind: MarkdownView
-  path: github.com/wide-vsix/MarkdownView/api/v1
+  path: github.com/yas-nyan/MarkdownView/api/v1
   version: v1
   webhooks:
     defaulting: true

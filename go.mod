@@ -1,4 +1,4 @@
-module github.com/wide-vsix/MarkdownView
+module github.com/yas-nyan/MarkdownView
 
 go 1.17
 
