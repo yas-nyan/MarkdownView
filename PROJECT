@@ -1,0 +1,6 @@
+domain: vsix.wide.ad.jp
+layout:
+- go.kubebuilder.io/v3
+projectName: markdownview
+repo: github.com/wide-vsix/MarkdownView
+version: "3"
